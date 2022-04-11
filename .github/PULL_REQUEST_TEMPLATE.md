@@ -1,0 +1,4 @@
+- [ ] Have you verified that your changes do not expose private client information?
+- [ ] Are all new or updated entries marked as `isNew` = `true`?
+- [ ] Does `radar.csv` render correctly when viewed on Github?
+- [ ] Does the updated [tech radar](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fletspersuade%2Ftech-radar%2F +++ ADD YOUR BRANCH NAME HERE +++  %2Fradar.csv) display as you expect?
